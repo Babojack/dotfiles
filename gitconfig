@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jey.afandiyev@gmail.com
+	name = Jeyhun Afandiyev
